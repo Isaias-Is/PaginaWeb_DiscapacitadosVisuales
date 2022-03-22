@@ -9,7 +9,7 @@
 
 *Debemos de investigar que tecnologías hay.*
 
-- [X] [Cómo ellos pueden navegar en una página]()
+- [X] [Cómo ellos pueden navegar en una página](Diseño_Web/Investigacion/Investigacion de wao)
 - [X] [Cómo perciben el lenguaje y las cosas]()
 - [ ] [Cómo estructurar la página para que para ellos sea entendible y navegable]()
 - [ ] [La opinión de una persona con discapacidad visual]()
