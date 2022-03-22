@@ -9,7 +9,7 @@
 
 *Debemos de investigar que tecnologías hay.*
 
-- [X] [Cómo ellos pueden navegar en una página](Diseño_Web/Investigacion/Investigacion_de_wao)
+- [X] [Cómo ellos pueden navegar en una página](https://github.com/Isaias-Is/PaginaWeb_DiscapacitadosVisuales/blob/37bc38b5462b9144908b7cd0bf33ee503b9ec7a6/Dise%C3%B1o_Web/Investigacion/Investigacion_de_wao)
 - [X] [Cómo perciben el lenguaje y las cosas]()
 - [ ] [Cómo estructurar la página para que para ellos sea entendible y navegable]()
 - [ ] [La opinión de una persona con discapacidad visual]()
