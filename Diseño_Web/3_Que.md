@@ -6,3 +6,5 @@
 | Sus otros sentidos están más desarrollados. |	La opinión de una persona con discapacidad visual. |	La opinión de una persona con discapacidad visual. |
 | Qué existen mouses y teclados diseñados para las personas con discapacidad visual. |	Cómo funcionan los mouses y teclados para los discapacitados visuales. |	Cómo funcionan los mouses y teclados para los discapacitados visuales. |
 | Qué existen tecnologías desarrolladas para estas personas. |	Qué tecnologías se han desarrollado para las personas con discapacidad visual, cómo funciona un asistente de voz virtual	| Qué tecnologías se han desarrollado para las personas con discapacidad visual, cómo funciona un asistente de voz virtual. |
+
+*Debemos de investigar que tecnologías hay.*
