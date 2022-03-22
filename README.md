@@ -1,2 +1,2 @@
-# P-ginaWeb_DiscapacitadosVisuales
+# PaginaWeb_DiscapacitadosVisuales
 Proyecto de página web
