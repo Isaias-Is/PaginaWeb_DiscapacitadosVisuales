@@ -1,5 +1,5 @@
 | ¿Qué Sabemos? | ¿Qué Deseo Saber?	| ¿Qué Necesitó Saber? |
-| --- |
+| --- | --- | --- |
 | Que no pueden ver. | Cómo ellos pueden navegar en una página. |	Cómo ellos pueden navegar en una página. |
 | Que no perciben las cosas igual que nosotros. |	Cómo perciben el lenguaje y las cosas. |	Cómo perciben el lenguaje y las cosas |
 | Que no hay paginas así y que la pagina no va a tener la misma estructura que el estándar. |	Cómo estructurar la página para que para ellos sea entendible y navegable. | Cómo estructurar la página para que para ellos sea entendible y navegable. |
