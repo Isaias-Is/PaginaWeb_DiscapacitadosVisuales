@@ -1,4 +1,4 @@
-| ¿Qué Sabemos? | ¿Qué Deseo Saber?	| ¿Qué Necesitó Saber? |
+| **¿QUÉ SABEMOS?** | **¿QUÉ DESEO SABER?**	| **¿QUÉ NECESITO SABER?** |
 | --- | --- | --- |
 | Que no pueden ver. | Cómo ellos pueden navegar en una página. |	Cómo ellos pueden navegar en una página. |
 | Que no perciben las cosas igual que nosotros. |	Cómo perciben el lenguaje y las cosas. |	Cómo perciben el lenguaje y las cosas |
