@@ -9,9 +9,9 @@
 
 *Debemos de investigar que tecnologías hay.*
 
-- [] [Cómo ellos pueden navegar en una página]()
-- [] [Cómo perciben el lenguaje y las cosas]()
-- [] [Cómo estructurar la página para que para ellos sea entendible y navegable]()
-- [] [La opinión de una persona con discapacidad visual]()
-- [] [Cómo funcionan los mouses y teclados para los discapacitados visuales]()
-- [] [Qué tecnologías se han desarrollado para las personas con discapacidad visual, cómo funciona un asistente de voz virtual]()
+- [ ] [Cómo ellos pueden navegar en una página]()
+- [ ] [Cómo perciben el lenguaje y las cosas]()
+- [ ] [Cómo estructurar la página para que para ellos sea entendible y navegable]()
+- [ ] [La opinión de una persona con discapacidad visual]()
+- [ ] [Cómo funcionan los mouses y teclados para los discapacitados visuales]()
+- [ ] [Qué tecnologías se han desarrollado para las personas con discapacidad visual, cómo funciona un asistente de voz virtual]()
