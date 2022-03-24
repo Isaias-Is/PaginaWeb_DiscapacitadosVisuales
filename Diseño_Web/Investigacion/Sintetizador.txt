@@ -1,0 +1,25 @@
+El oído. Todos los sonidos, desde las voces hasta los pasos, pueden ayudarnos a hacernos una imagen mental de lo que ocurre. “El oído me sirve sobre todo para reconocer a las personas por la voz o incluso por su forma de caminar”, comenta Fernando, que es ciego. Juan, que también es ciego, dice: “Para mí, la voz de una persona es su identidad. En cuanto la escucho, veo a la persona en mi mente”. Y como el resto de las personas, los ciegos perciben muy bien el tono de la voz, pues este puede transmitir diferentes emociones.
+El oído entrenado de los ciegos les ayuda a detectar sonidos que les permiten conocer su entorno. Por ejemplo, pueden saber la dimensión de una habitación, la dirección del tráfico o si hay algún obstáculo.
+El olfato. A través de este sentido no solo reconocemos los olores, sino también recibimos mucha información. En el caso de los ciegos, cuando caminan por  una calle, su olfato les permite hacerse un mapa mental de algunos lugares, como cafeterías, restaurantes, mercados y otros sitios. Por supuesto, a ese mapa añaden sonidos familiares y otros detalles que perciben a través del tacto.
+El tacto. “Mis dedos son mis ojos, con ellos puedo ver”, dice Francisco. El bastón les ayuda a los ciegos a “ver” más lejos. Manasés, que nació ciego, aprendió a usar un bastón desde pequeño. “Sé perfectamente por dónde voy por los cambios en la superficie del suelo. Para orientarme, estoy acostumbrado a valerme de mis sentidos y de mi memoria.”
+
+KNFB Reader: Basta con sacar una foto a un texto impreso y la aplicación lo lee en voz alta. Se puede configurar para leer distintos tipos de documento y es capaz de orientar al usuario mediante comandos de voz y vibraciones para que sea capaz de colocar la cámara la posición correcta al capturar el documento.
+Tap Tap See: Similar al anterior, pero para identificar objetos. Basta con tomar una foto para que la aplicación nos describa el objeto fotografiado. Esta aplicación combina sistemas automáticos de reconocimiento de imagen con la ayuda de personas reales que interpretan las imágenes. Puede servir, por ejemplo, para saber qué hay en una habitación en la que no se ha estado nunca antes, averiguar de qué color es una prenda de ropa o poder distinguir un paquete de café normal del descafeinado.
+Identificadores de moneda: Existen muchas aplicaciones que identifican de manera rápida billetes. Tanto para saber cuánto dinero tienes en el bolsillo, como para saber si el tendero te ha dado bien el cambio.
+Color ID: Aunque puede resultar útil a diseñadores gráficos y similares, las personas ciegas pueden necesitar saber el color de los objetos en muchas ocasiones, por ejemplo al sacar la ropa de la lavadora.
+El sistema utilizado para hacer esto se llama sintetizador de voz, o sistema de texto a voz, y se puede usar a través de programas especiales que le permiten convertir texto en audio.
+Los sistemas de texto a voz normalmente trabajan fusionando grabaciones de voz que se guardan en una base de datos.
+La base de datos puede contener fonemas simples o fonemas dobles utilizados para reproducir palabras o, al mismo tiempo, puede contener la grabación de palabras completas.
+La segunda solución obviamente permite obtener una mayor calidad.
+Luego encontramos soluciones más complejas, sistemas de texto a voz que crean síntesis de voz utilizando un modelo de rasgos vocales.
+Hay varios sintetizadores de voz disponibles en la web, algunos para usar en línea a través de su navegador y otros para instalar en su computadora.
+La calidad de estos instrumentos debe considerarse en función de la similitud con la voz humana que ofrecen y la calidad del audio que se reproduce.
+
+Los SAPI permiten a los desarrolladores escribir aplicaciones de este tipo fácilmente y utilizar cualquier motor de síntesis de voz.
+Sin embargo, debemos considerar que el motor de síntesis de voz de Microsoft es gratuito y está incluido en el sistema operativo, por esta razón la misma voz siempre está presente en los programas gratuitos.
+Algunas de estas aplicaciones le permiten utilizar voces comerciales adicionales, pero debe adquirirlas.
+
+Biblioigrafia
+¿Cómo ven los ciegos? (2015). Recuperado el March 22, 2022, de JW.ORG website: https://www.jw.org/es/biblioteca/revistas/g201511/como-ven-los-ciegos/#:~:text=Y%20como%20el%20resto%20de%20las%20personas%2C%20los,direcci%C3%B3n%20del%20tr%C3%A1fico%20o%20si%20hay%20alg%C3%BAn%20obst%C3%A1culo.
+OpenMind. (2015, April 14). Recuperado el March 22, 2022, de OpenMind website: https://www.bbvaopenmind.com/tecnologia/innovacion/tecnologia-para-invidentes-mas-alla-del-braille/
+sintetizador-de-voz-en-espanol. (2021, January 8). Retrieved March 22, 2022, from MasQueProgramas website: https://masqueprogramas.net/programas/sintetizador-de-voz-en-espanol/
