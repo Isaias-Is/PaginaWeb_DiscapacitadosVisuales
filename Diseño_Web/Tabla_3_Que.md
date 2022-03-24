@@ -13,5 +13,5 @@
 - [X] [Cómo perciben el lenguaje y las cosas]()
 - [ ] [Cómo estructurar la página para que para ellos sea entendible y navegable]()
 - [ ] [La opinión de una persona con discapacidad visual]()
-- [X] [Cómo funcionan los mouses y teclados para los discapacitados visuales]()
+- [X] [Cómo funcionan los mouses y teclados para los discapacitados visuales](https://github.com/Isaias-Is/PaginaWeb_DiscapacitadosVisuales/blob/467d34e460453157fb9f43fd3911ae393bf93c07/Dise%C3%B1o_Web/Investigacion/como_funcionan_sus_gadgets.md)
 - [ ] [Qué tecnologías se han desarrollado para las personas con discapacidad visual, cómo funciona un asistente de voz virtual]()
