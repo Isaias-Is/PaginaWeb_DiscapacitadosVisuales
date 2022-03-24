@@ -10,7 +10,7 @@
 *Debemos de investigar que tecnologías hay.*
 
 - [X] [Cómo ellos pueden navegar en una página](https://github.com/Isaias-Is/PaginaWeb_DiscapacitadosVisuales/blob/37bc38b5462b9144908b7cd0bf33ee503b9ec7a6/Dise%C3%B1o_Web/Investigacion/Investigacion_de_wao)
-- [X] [Cómo perciben el lenguaje y las cosas]()
+- [X] [Cómo perciben el lenguaje y las cosas](https://github.com/Isaias-Is/PaginaWeb_DiscapacitadosVisuales/blob/eebd0b0ae51cf117bbbd811536399c78c9cdac45/Dise%C3%B1o_Web/Investigacion/INV_como_percibe_el_mundo_una_persona_con_ceguera.md)
 - [ ] [Cómo estructurar la página para que para ellos sea entendible y navegable]()
 - [ ] [La opinión de una persona con discapacidad visual]()
 - [X] [Cómo funcionan los mouses y teclados para los discapacitados visuales](https://github.com/Isaias-Is/PaginaWeb_DiscapacitadosVisuales/blob/467d34e460453157fb9f43fd3911ae393bf93c07/Dise%C3%B1o_Web/Investigacion/como_funcionan_sus_gadgets.md)
