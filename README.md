@@ -12,3 +12,7 @@
 
 #### Ligas Interesantes:
   - [¿Comó Referirse a las Personas en Situación de Discapacidad? (OJO Pág. 3)](https://www.senadis.gob.cl/resources/upload/documento/b36c2bb728ef85fa68b257ccfe0aff3a.pdf)
+
+
+https://histografias.com/infografia-historia-facebook.html
+https://www.significados.com/facebook/
